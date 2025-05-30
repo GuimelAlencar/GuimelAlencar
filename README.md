@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on a [Jupyter Notebook]() 📈 about a [Kaggle Dataframe](https://www.kaggle.com/datasets/fedesoriano/electric-power-consumption).
 - 🌱 I’m currently learning:
   - 🐍 [Python for data analysis](https://wesmckinney.com/book/).
-  - 🟢 Node.Js for Frontend Development
-  - 🔵 Django for Backend Development
-- 👯 I’m looking to collaborate on:
+  - Node.Js for Frontend Development
+  - Django for Backend Development
+- I’m looking to collaborate on:
   - Interesting projects with Python .
 - 🤔 I’m looking for help with:
   - 🤬 to install Debian on an old HP Proliant
